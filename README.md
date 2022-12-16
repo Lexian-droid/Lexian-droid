@@ -6,4 +6,4 @@ My name is Chloe, I'm an ameteur software developer from the United States 🇺�
 - JS ✅
 
 I love creating useful software, and exploring new ideas.
-Wanna see my Portfolio? <a href='https://lexian.dev'>Click Here!</a>
+Wanna see my Portfolio? <a href='https://lexian.dev/index.php?v=portfolio'>Click Here!</a>
